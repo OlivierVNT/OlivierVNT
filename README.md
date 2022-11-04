@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olivier</h1>
-<h3 align="center">En formation chez O'Clock pour devenir Développeur Web Front-End</h3>
+<h3 align="center">En formation chez O'Clock pour devenir Développeur Web Back-End</h3>
 
 <p align="left"> <a href="https://twitter.com/oliviervinot" target="blank"><img src="https://img.shields.io/twitter/follow/oliviervinot?logo=twitter&style=for-the-badge" alt="oliviervinot" /></a> </p>
 
