@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/oliviervinot" target="blank"><img src="https://img.shields.io/twitter/follow/oliviervinot?logo=twitter&style=for-the-badge" alt="oliviervinot" /></a> </p>
 
 - 🌱 Je suis actuellement en train d'apprendre **Javascript, HTML et CSS**.
-- La logique, la patience, la communication et le souci du détail sont mes principaux atouts. Serein face à la complexité. Vous décomposez les choses en morceaux gérables et vous les abordez avec les outils à votre disposition. j'aime planifier, construire des structures, penser en systèmes, résoudre des énigmes, m'adapter au changement et apprendre de nouvelles technologies.
+- La logique, la patience, la communication et le souci du détail sont mes principaux atouts. Serein face à la complexité. j'aime planifier, construire des structures, penser en systèmes, résoudre des énigmes, m'adapter au changement et apprendre de nouvelles technologies.
 
 - 📫 Comment me joindre **ecrire.olivier.vinot@gmail.com**
 
