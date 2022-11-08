@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Olivier</h1>
+<h1 align="center">Hey 👋, je suis Olivier</h1>
 <h3 align="center">En formation chez O'Clock pour devenir Développeur Web Back-End</h3>
 
 <p align="left"> <a href="https://twitter.com/oliviervinot" target="blank"><img src="https://img.shields.io/twitter/follow/oliviervinot?logo=twitter&style=for-the-badge" alt="oliviervinot" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, HTML and CSS**
+- 🌱 Je suis actuellement en train d'apprendre **Javascript, HTML et CSS**.
 - La logique, la patience, la communication et le souci du détail sont mes principaux atouts. Serein face à la complexité. Vous décomposez les choses en morceaux gérables et vous les abordez avec les outils à votre disposition. j'aime planifier, construire des structures, penser en systèmes, résoudre des énigmes, m'adapter au changement et apprendre de nouvelles technologies.
 
-- 📫 How to reach me **ecrire.olivier.vinot@gmail.com**
+- 📫 Comment me joindre **ecrire.olivier.vinot@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Me contacter</h3>
 <p align="left">
 <a href="https://twitter.com/oliviervinot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oliviervinot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oliviervinot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliviervinot" height="30" width="40" /></a>
