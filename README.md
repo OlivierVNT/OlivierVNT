@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, je suis Olivier</h1>
-<h3 align="center">En formation chez O'Clock pour devenir Développeur Web Back-End</h3>
+<h3 align="center">Développeur Web Back-End</h3>
 
 
 - 🌱 Je suis actuellement en train d'apprendre **Javascript, HTML et CSS**.
