@@ -1,5 +1,4 @@
-<h1 align="center">Hey 👋, je suis Olivier</h1>
-<h3 align="center">Développeur Back-End, Passionné par l'IA et le Vibecoding</h3>
+<h3 align="center" style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 1.8em; color: #3d5a80; margin-top: -5px;">Développeur Back-End, Passionné d'IA & Vibecoding</h3>
 
 - 🌱 Actuellement, j'explore le **vibecoding** et je fais des tests en créant diverses applications basées sur différents modèles.
 - Je suis passionné par l'**intelligence artificielle** et j'aime comprendre comment elle peut transformer nos interactions numériques.
